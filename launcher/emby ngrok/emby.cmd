@@ -1,0 +1,2 @@
+ngrok.exe authtoken 20svRy3vFP1wVaIa0Kgm7imrtwc_FFrAx6WQrdezSrwczDHV
+ngrok.exe tcp 8096
